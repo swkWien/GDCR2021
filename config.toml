@@ -1,0 +1,19 @@
+baseURL = 'https://swkwien.github.io/GDCR21/'
+languageCode = 'en-us'
+title = 'Global Day of Coderetreat 2021 by swkWien at Nagarro'
+description = "A day of deliberate practice and learning"
+theme = "reveal-hugo"
+
+[params]
+custom_css = ["css/custom.css"]
+
+[author]
+name = "TODO add facilitators"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true

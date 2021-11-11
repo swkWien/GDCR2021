@@ -1,0 +1,32 @@
+break = '''
+
+## ☕
+## Enjoy the Break
+
+'''
+
+find_a_pair = '''
+
+## 🤝
+## Find a Pair
+
+'''
+
+code = '''
+
+## 💻
+## Code
+
+- Pair Programming
+- TDD
+- Focus on Constraints
+
+'''
+
+
+retrospective = '''
+
+## 🤔
+## Retrospective
+
+'''

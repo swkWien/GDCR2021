@@ -1,0 +1,5 @@
+<!-- This partial is included before the end of the head tag for only the 'example' presentation -->
+<!-- css overrides -->
+{{ range .Site.Params.custom_css -}}
+<link rel="stylesheet" href="{{ . |  absURL }}">
+{{- end }}
