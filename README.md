@@ -1,6 +1,7 @@
-# GDCR21 Hugo
+# GDCR 2021 Slides
 
-Temporary Repo for Slides via Hugo
+Slides for Global Day of Coderetreat event organized by swkWien and hosted
+at Nagarro.
 
 ## Installation
 
