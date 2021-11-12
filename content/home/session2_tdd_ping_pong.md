@@ -6,23 +6,25 @@ Facilitator: Peter Kofler, [@codecopkofler](https://twitter.com/codecopkofler)
 
 ---
 
+## 🏓
 ## TDD with Ping Pong
 
-Let's do TDD and Pair Programming in a strict way,<br>
+Let's do **TDD** and **Pair Programming** in a strict way,<br>
 switching after each increment:
 
-* A writes a test and sees that it fails.
-* B writes the code needed to pass the test.
-* A (or B) refactors the code as needed.
-* B writes next test and sees that it fails.
-* A writes the code needed to pass the test.
+* **A** writes a test and sees that it fails.
+* **B** writes the code needed to pass the test.
+* **A** (or **B**) refactors the code as needed.
+* **B** writes the next test and sees that it fails.
+* **A** writes the code needed to pass the test.
 * And so on.
 
 ---
 
 ### Tips
 
-* Use the first few minutes to decide on approach and create an initial test list.
+* Use the first few minutes to decide on an approach and create an
+  initial test list.
 * Start with a programming language you know.
 * Make sure to see the test red or green before passing the keyboard to one another.
 
@@ -36,8 +38,8 @@ Optional, for experienced participants:
 
 Not recommended, only for crazy participants:
 
-* No moving cursor more than 2 lines with the arrow keys.
-* No typing Enter/Backspace/any key more than 2 times at once.
+* Don't move the cursor more than 2 lines with the arrow keys.
+* Don't type Enter/Backspace/any key more than 2 times at once.
 
 ---
 
