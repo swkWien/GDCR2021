@@ -13,48 +13,28 @@ Facilitator: Paul Rohorzka, [@paulroho](https://twitter.com/paulroho)
 
 ---
 
-## Why Should I
-## Take Baby Steps?
+## Why Baby Steps?
 
-- Your 🧠 is limited
-- A free mind works better
-- Ingenuity seldom works
-- Steady progress feels great
+- Your 🧠 is limited.
+- A clear head works better.
+- Ingenuity seldom works.
+- Steady progress feels great.
 
 ---
 
 ## TDD Baby Steps Flow
 
-- Choose a step
-- Set timer
-- Code!
+Decide on a step.<br>
+Set a 3 minute timer.<br>
+Code!
+
 - 🤓 Works?
   - → Repeat
+
 - ⏲ Time out?
   - `reset --hard`
   - Make the step smaller!
   - → Repeat
-
----
-
-## But How Small?
-
-- The test turned green?
-  - → **commit**
-  - refactor separately
-- The code is better than before?
-  - → **commit**
-  - make additional refactorings
-
-> Commit often - "micro commits"
-
----
-
-{{< slide content="common.find_a_pair" >}}
-
----
-
-{{< slide content="common.code" >}}
 
 ---
 
@@ -66,7 +46,27 @@ Facilitator: Paul Rohorzka, [@paulroho](https://twitter.com/paulroho)
 
 ---
 
+## Tips
+
+- Commit often - "micro commits".
+- Do the simplest thing that could possibly work.
+- Refactor in a separate step(s).
+- Write the commit message first.
+
+---
+
+{{< slide content="common.find_a_pair" >}}
+
+---
+
+{{< slide content="common.code" >}}
+
+---
+
 {{< slide content="common.retrospective" >}}
+
+- How did it feel to take such small steps?
+- How does the step size compare to your daily work?
 
 ---
 
