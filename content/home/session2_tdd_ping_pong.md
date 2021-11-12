@@ -2,13 +2,14 @@
 
 # First attempt to make small steps
 
-Facilitator: Peter Kofler, [Code Cop](https://twitter.com/codecopkofler)
+Facilitator: Peter Kofler, [@codecopkofler](https://twitter.com/codecopkofler)
 
 ---
 
-## Constraint TDD/Ping Pong
+## TDD with Ping Pong
 
-Let's do TDD and Pair Programming in a strict way, switching after each increment:
+Let's do TDD and Pair Programming in a strict way,<br>
+switching after each increment:
 
 * A writes a test and sees that it fails.
 * B writes the code needed to pass the test.
@@ -22,13 +23,18 @@ Let's do TDD and Pair Programming in a strict way, switching after each incremen
 ### Tips
 
 * Use the first few minutes to decide on approach and create an initial test list.
+* Start with a programming language you know.
 * Make sure to see the test red or green before passing the keyboard to one another.
 
-### Extra Challenge (optional, for experienced participants)
+---
+
+### Extra Challenge 
+
+Optional, for experienced participants:
 
 * Don't use a mouse or keypad.
 
-### Extra Extra Challenge (not recommended, only for crazy participants)
+Not recommended, only for crazy participants:
 
 * No moving cursor more than 2 lines with the arrow keys.
 * No typing Enter/Backspace/any key more than 2 times at once.
