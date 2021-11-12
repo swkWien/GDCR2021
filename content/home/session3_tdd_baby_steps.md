@@ -19,4 +19,4 @@ Facilitator: Paul Rohorzka
 
 ---
 
-{{< slide content="common.break" >}}
+{{< slide content="common.lunch_break" >}}
