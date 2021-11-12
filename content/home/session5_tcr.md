@@ -15,6 +15,16 @@ The new style versus test-driven development
 
 ---
 
+## TCR - why?
+
+*Limbo lower now - Limbo lower now - How low can you go?*
+
+![Limbo](kent-beck-limbo.jpeg)
+
+> If you don’t want a bunch of code wiped out then don’t write a bunch of code between greens.
+
+---
+
 {{< slide content="common.find_a_pair" >}}
 
 ---
