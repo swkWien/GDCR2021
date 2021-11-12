@@ -1,15 +1,21 @@
 ### Session 4
 
-# Minimalist Coder
+# Write smaller code! 
 
 Facilitator: Rea Sutter
 
 ---
 
-## 📜
-## Rules:
+## Minimalist Code
 - max. 3 statements per method
 - max. 5 methods per class
+
+---
+
+### Tips
+- you can write longer methods and larger classes first,<br>
+but **refactor** as soon as your tests are green
+- depending on your language, you can go even smaller
 
 ---
 
@@ -18,7 +24,7 @@ Facilitator: Rea Sutter
 ---
 
 ## 📝
-## Minimalist Coder
+## Minimalist Code
 
 ---
 
