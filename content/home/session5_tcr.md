@@ -6,17 +6,16 @@ Facilitator: Adam Zielinski
 
 ---
 
+TODO: add description
+
+---
+
 {{< slide content="common.find_a_pair" >}}
 
 ---
 
-## 📝
-## TCR - Test Commit Revert
+{{< slide content="common.code" >}}
 
 ---
 
 {{< slide content="common.retrospective" >}}
-
----
-
-{{< slide content="common.break" >}}

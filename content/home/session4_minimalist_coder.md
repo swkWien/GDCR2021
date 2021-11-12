@@ -6,12 +6,15 @@ Facilitator: Rea Sutter
 
 ---
 
+## Minimalist Coder
+
+---
+
 {{< slide content="common.find_a_pair" >}}
 
 ---
 
-## 📝
-## Minimalist Coder
+{{< slide content="common.code" >}}
 
 ---
 

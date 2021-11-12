@@ -28,7 +28,7 @@ switching after each increment:
 
 ---
 
-### Extra Challenge 
+### Extra Challenge
 
 Optional, for experienced participants:
 
@@ -42,6 +42,10 @@ Not recommended, only for crazy participants:
 ---
 
 {{< slide content="common.find_a_pair" >}}
+
+---
+
+{{< slide content="common.code" >}}
 
 ---
 

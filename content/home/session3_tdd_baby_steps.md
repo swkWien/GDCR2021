@@ -3,7 +3,7 @@
 # Make Even
 # Smaller Steps!
 
-Facilitator: Paul Rohorzka, [@paulroho](https://twitter.com/paulroho) 
+Facilitator: Paul Rohorzka, [@paulroho](https://twitter.com/paulroho)
 
 ---
 
@@ -18,7 +18,7 @@ Facilitator: Paul Rohorzka, [@paulroho](https://twitter.com/paulroho)
 
 - Your 🧠 is limited
 - A free mind works better
-- Ingeniuity seldom works
+- Ingenuity seldom works
 - Steady progress feels great
 
 ---
@@ -51,6 +51,10 @@ Facilitator: Paul Rohorzka, [@paulroho](https://twitter.com/paulroho)
 ---
 
 {{< slide content="common.find_a_pair" >}}
+
+---
+
+{{< slide content="common.code" >}}
 
 ---
 
