@@ -6,7 +6,7 @@ Facilitator: Rea Sutter
 
 ---
 
-## Minimalist Code
+## Minimalist Code 🤏
 - max. 3 statements per method
 - max. 5 methods per class
 
