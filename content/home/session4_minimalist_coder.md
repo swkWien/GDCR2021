@@ -23,8 +23,6 @@ but **refactor** as soon as your tests are green
 
 ---
 
-## 📝
-## Minimalist Code
 {{< slide content="common.code" >}}
 
 ---
