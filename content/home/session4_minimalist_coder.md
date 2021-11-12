@@ -1,21 +1,26 @@
 ### Session 4
 
-# Write smaller code! 
+# Write smaller units!
 
 Facilitator: Rea Sutter
 
 ---
 
-## Minimalist Code 🤏
-- max. 3 statements per method
-- max. 5 methods per class
+## 🤏
+## Minimalist Code
+
+- Max. 3 fields per class
+- Max. 3 methods per class
+- Max. 3 statements per method
 
 ---
 
 ### Tips
-- you can write longer methods and larger classes first,<br>
-but **refactor** as soon as your tests are green
-- depending on your language, you can go even smaller
+
+Refactor to keep units small
+- Extract variable
+- Extract method
+- Extract class
 
 ---
 
@@ -29,12 +34,9 @@ but **refactor** as soon as your tests are green
 
 {{< slide content="common.retrospective" >}}
 
----
-
-## 🤔
-- How did this affect your code?
-- What are the pros of using very small methods and classes?
-- What are the cons of using very small methods and classes?
+How did this approach affect
+- the readability of your code?
+- your understanding of the implementation?
 
 ---
 
