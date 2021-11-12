@@ -276,8 +276,31 @@ but <strong>refactor</strong> as soon as your tests are green</li>
 <h2 id=enjoy-the-break>Enjoy the Break</h2>
 </section>
 <section><h3 id=session-5>Session 5</h3>
-<h1 id=tcr---test-commit-revert>TCR - Test Commit Revert</h1>
-<p>Facilitator: Adam Zielinski</p>
+<h1 id=tcr>TCR</h1>
+<h1 id=test-commit-revert>Test Commit Revert</h1>
+<p>Facilitator: Adam Zielinski, <a href=https://twitter.com/adam0x5A>@adam0x5A</a></p>
+</section><section>
+<h2 id=test--commit--revert>test && commit || revert</h2>
+<p><img src=kent-beck-tcr.jpeg alt="The new style versus test-driven development"></p>
+<p>The new style versus test-driven development</p>
+</section><section>
+<h2 id=tcr---why>TCR - why?</h2>
+<p><em>Limbo lower now - Limbo lower now - How low can you go?</em></p>
+<p><img src=kent-beck-limbo.jpeg alt=Limbo></p>
+<blockquote>
+<p>If you don’t want a bunch of code wiped out then don’t write a bunch of code between greens.</p>
+</blockquote>
+</section><section>
+<h2 id=tcr---how>TCR - how?</h2>
+<ul>
+<li><strong>Add test and pass.</strong>
+The goal here is to shorten the time between idea and some kind of test passing in some kind of way. Even writing part of the test is fine. Cheating is encouraged, as long as you don’t stop there.</li>
+<li><strong>Better passing.</strong>
+Once you have a test passing, replace the fake implementation with a real implementation, a little at a time if necessary.</li>
+<li><strong>Make hard changes easy.</strong>
+Rather than change four places in the code, introduce a helper function (a little at a time, natch) so you can change one place.</li>
+</ul>
+<p>Source: <em><a href=https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864>Kent Beck: TCR (2018)</a></em></p>
 </section><section>
 <p>TODO: add description</p>
 </section>
