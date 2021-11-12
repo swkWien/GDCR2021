@@ -25,6 +25,7 @@ but **refactor** as soon as your tests are green
 
 ## 📝
 ## Minimalist Code
+{{< slide content="common.code" >}}
 
 ---
 
@@ -36,7 +37,6 @@ but **refactor** as soon as your tests are green
 - How did this affect your code?
 - What are the pros of using very small methods and classes?
 - What are the cons of using very small methods and classes?
-
 
 ---
 
