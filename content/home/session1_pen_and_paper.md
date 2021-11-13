@@ -58,7 +58,7 @@ Not recommended, only for crazy participants:
 {{< slide content="common.retrospective" >}}
 
 * What have you learned about the game?
-* What was similar/different between your first and your second pairing?
+* Are you ready to code?
 
 ---
 
