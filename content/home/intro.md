@@ -13,13 +13,11 @@ by swkWien at Nagarro
 
 ---
 
-TODO:
-- Code of Conduct
-- Mindset
-- Thx nagarro
-- Feedback form
-- Join SWK
-- ...
+## Some participants do not have a PCR test.
+
+<br>
+
+What do we do?
 
 ---
 

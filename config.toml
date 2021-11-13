@@ -8,7 +8,7 @@ theme = "reveal-hugo"
 custom_css = ["css/custom.css"]
 
 [author]
-name = "TODO add facilitators"
+name = "Claus Aichinger, Peter Kofler, Paul Rohorzka, Rea Sutter, Adam Zielinksi"
 
 [markup.goldmark.renderer]
 unsafe = true
