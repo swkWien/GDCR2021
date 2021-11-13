@@ -20,22 +20,26 @@ Familiarize yourself with the problem:
 
 ### Tips
 
-* Sometimes "A picture is worth a thousand words".
+* Introduce terminology.
+* "A picture is worth a thousand words".
 * If you prefer a digital sketching solution: https://cocreate.csail.mit.edu/.
 
+---
+
+<!--
 ---
 
 ### Extra Challenge
 
 Optional, for experienced participants:
 
-* Use your *left* hand.
+* Use your non-dominant hand.
 
 Not recommended, only for crazy participants:
 
 * Use your feet.
-
----
+* Use your mouth.
+-->
 
 {{< slide content="common.find_a_pair" >}}
 
@@ -48,8 +52,8 @@ Not recommended, only for crazy participants:
 
 {{< slide content="common.retrospective" >}}
 
-* What was similar/different between the first and second pairing?
-* Do you feel ready to code?
+* What have you learned about the game?
+* What was similar/different between your first and your second pairing?
 
 ---
 
