@@ -1,3 +1,8 @@
++++
++++
+
+{{% section %}}
+
 # Global Day of Coderetreat
 
 by swkWien at Nagarro
@@ -129,3 +134,5 @@ Be respectful.
 ---
 
 # Questions?
+
+{{% /section %}}

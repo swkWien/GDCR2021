@@ -1,3 +1,8 @@
++++
++++
+
+{{% section %}}
+
 # Coderetreat
 
 *A day of deliberate practice and learning.*
@@ -40,3 +45,4 @@ https://g.co/kgs/5Sxo4e
 
 What is your personal goal?
 
+{{% /section %}}

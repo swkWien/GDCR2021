@@ -1,3 +1,8 @@
++++
++++
+
+{{% section %}}
+
 ### Session 3
 
 # Make Even
@@ -71,3 +76,5 @@ Code!
 ---
 
 {{< slide content="common.lunch_break" >}}
+
+{{% /section %}}

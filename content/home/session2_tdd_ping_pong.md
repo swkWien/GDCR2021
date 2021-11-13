@@ -1,3 +1,8 @@
++++
++++
+
+{{% section %}}
+
 ### Session 2
 
 # First attempt to make small steps
@@ -56,3 +61,5 @@ Not recommended, only for crazy participants:
 ---
 
 {{< slide content="common.break" >}}
+
+{{% /section %}}

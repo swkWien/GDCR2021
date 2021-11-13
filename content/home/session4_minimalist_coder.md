@@ -1,3 +1,8 @@
++++
++++
+
+{{% section %}}
+
 ### Session 4
 
 # Write smaller units!
@@ -41,3 +46,5 @@ How did this approach affect
 ---
 
 {{< slide content="common.break" >}}
+
+{{% /section %}}

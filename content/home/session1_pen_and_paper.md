@@ -1,3 +1,8 @@
++++
++++
+
+{{% section %}}
+
 ### Session 1
 
 # Pen and Paper
@@ -58,3 +63,5 @@ Not recommended, only for crazy participants:
 ---
 
 {{< slide content="common.break" >}}
+
+{{% /section %}}

@@ -1,3 +1,8 @@
++++
++++
+
+{{% section %}}
+
 ### Session 5
 
 # TCR
@@ -47,3 +52,11 @@ Source: *[Kent Beck: TCR (2018)](https://medium.com/@kentbeck_7670/test-commit-r
 ---
 
 {{< slide content="common.retrospective" >}}
+
+---
+
+{{< slide content="common.break" >}}
+
+After the break we convene for the final retrospective.
+
+{{% /section %}}
