@@ -7,7 +7,7 @@
 
 # Pen and Paper
 
-Facilitator: Claus Aichinger
+Facilitator: Claus Aichinger, [@clausaichinger](https://twitter.com/ClausAichinger)
 
 ---
 

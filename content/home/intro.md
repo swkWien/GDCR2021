@@ -115,7 +115,7 @@ We write tests first: *Test Driven Development*
 
 *Facilitators in order of appearance.*
 
-- Claus Aichinger
+- Claus Aichinger, [@clausaichinger](https://twitter.com/ClausAichinger)
 - Peter Kofler, [@codecopkofler](https://twitter.com/codecopkofler)
 - Paul Rohorzka, [@paulroho](https://twitter.com/paulroho)
 - Rea Sutter
