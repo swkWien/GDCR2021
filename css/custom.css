@@ -18,3 +18,14 @@
 .reveal .progress {
     color: #12bcbc;
 }
+
+/*********************************************
+ * LINKS
+ *********************************************/
+.reveal a {
+    color: #12bcbc;
+}
+
+  .reveal a:hover {
+    color: #12bcbc;
+}
