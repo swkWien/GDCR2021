@@ -53,8 +53,8 @@ Source: *[Kent Beck: TCR (2018)](https://medium.com/@kentbeck_7670/test-commit-r
 - Pair Programming
 - ~~TDD~~ TCR
 - Focus on Constraints
-   - [IntelliJ: "Limited WIP" plugin](https://plugins.jetbrains.com/plugin/7655-limited-wip)
-   - [VS Code support for the TCR coding workflow](https://github.com/KentBeck/TCRCode)
+   - IntelliJ: ["Limited WIP" plugin](https://plugins.jetbrains.com/plugin/7655-limited-wip)
+   - VS Code: [ support for the TCR coding workflow](https://github.com/KentBeck/TCRCode)
 
 ---
 
