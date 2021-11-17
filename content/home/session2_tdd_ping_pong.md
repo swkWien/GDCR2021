@@ -7,7 +7,7 @@
 
 # First attempt to make small steps
 
-Facilitator: Peter Kofler, [@codecopkofler](https://twitter.com/codecopkofler)
+Facilitator: Goerge Albrecht, [@g_o_rge](https://twitter.com/g_o_rge)
 
 ---
 
